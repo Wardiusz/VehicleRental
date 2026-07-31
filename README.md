@@ -1,4 +1,4 @@
-# Vehicle Rental System - MAS Project
+# Vehicle Rental System
 
 This is my final project in the Modeling and Analysis of Information Systems (MAS) subject as part of the PJATK studies.
 
