@@ -9,6 +9,7 @@ This is my final project in the Modeling and Analysis of Information Systems (MA
 
 ## Table of contents
 
+0. [Start Application](#0-start-application)
 1. [User Requirements](#1-User-Requirements)
 2. [Non-functional requirements](#2-Non-functional-requirements)
 3. [Use Case Diagram](#3-Use-Case-Diagram)
@@ -22,6 +23,17 @@ This is my final project in the Modeling and Analysis of Information Systems (MA
 11. [Overview of design decisions](#11-Overview-of-design-decisions)
 
 ---
+
+## 0. Start Application
+
+Dependencies needed:
+   * Java 25+
+   * JavaFX 21+
+
+To start application you need to type in console:
+```shell
+java -jar vehicle_rental_system-0.1-DEMO.jar
+```   
 
 ## 1. User requirements
 
