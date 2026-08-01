@@ -28,7 +28,6 @@ This is my final project in the Modeling and Analysis of Information Systems (MA
 
 Dependencies needed:
    * Java 25+
-   * JavaFX 21+
 
 To start application you need to type in console:
 ```shell
